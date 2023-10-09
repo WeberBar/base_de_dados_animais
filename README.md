@@ -46,4 +46,4 @@ Produza o Readme do repositório remoto e tire um print da tela após o término
 
 Coloque comentários em seu código.
 
-Código Documentado: ![Còdigo em SQL](animais.sql)
+Código Documentado: ![Còdigo](animais.sql)
