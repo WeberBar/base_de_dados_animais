@@ -35,7 +35,7 @@
 
 ### Remova todos os animais.
 ### Remova a tabela especies.
-![imagem_passo11](apagar_tabela_dados.png)
+![imagem_passo11](apagar_dados.png)
 Caso não tenha os registros dos animais indicados para o teste faça um INSERT para realização da atividade;
 
 Execute essas atividades dentro o Oracle Workbench;
